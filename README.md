@@ -27,9 +27,10 @@ The dashboard is equiped with the following:
 ## Final Dashboard Picture:
 ![](Images/Dashboard.png)
  
- ## Data Model:
+## Data Model:
  ![](Images/Data_Model_1.png)
- ### Fields:
+ 
+### Fields:
  ![](Images/Fields.png)
 
 
