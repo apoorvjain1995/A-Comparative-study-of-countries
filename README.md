@@ -30,7 +30,7 @@ The dashboard is equiped with the following:
 ## Data Model:
  ![](Images/Data_Model_1.png)
  
-### Fields:
+## Fields:
  ![](Images/Fields.png)
 
 
