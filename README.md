@@ -24,7 +24,7 @@ The dashboard is equiped with the following:
 * The dashboard filter for income group applies to all charts with the filter action enabled in the map as well.
 
 ## Final Dashboard Picture:
-![](Images/Dashboard.png)
+[](Images/Dashboard.png)
 
 
  
