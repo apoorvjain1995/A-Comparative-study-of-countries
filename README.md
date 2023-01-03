@@ -23,5 +23,8 @@ The dashboard is equiped with the following:
 * The dashboard has a trend line which shows the selected category values. 
 * The dashboard filter for income group applies to all charts with the filter action enabled in the map as well.
 
+## Final Dashboard Picture:
+![](Images/Dashboard.png)
+
 
  
