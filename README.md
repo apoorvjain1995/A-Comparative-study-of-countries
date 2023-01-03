@@ -1,24 +1,21 @@
 # Problem Statement:
 * Create a dashboard to do a comparative study on various parameters of different countries using the sample insurance dataset and world development indicators dataset
 
-Primary Dataset – Insurance Sample Dataset
+* Primary Dataset – Insurance Sample Dataset
+* Secondary Dataset – Global Financial Development Database
 
-Secondary Dataset – Global Financial Development Database
+## Tools Used:
+* Tableau
 
-Hint: (Use Data Blending with Relationships between Country Code, Country, and Year)
+## Dashboard Description
 
-Dashboard Description
-A geographic map showing countries field. Color the map based on Income column from the secondary dataset.
+The dashboard is equiped with the following:
 
-Include a filter of income group to the dashboard
-
-Include a webpage to show data from world bank webpage driven by an URL action from geography graph.
-
-The country names in the map will act as the trigger  https://data.worldbank.org/country/<country>?view=chart
-
-Create a KPI Table to show the comparison between the selected period and the prior period to the selected one.
-
-Create two parameters for Year Selection and Category Selection.
+* A geographic map showing countries field. The map is coloured on the basis of Income from the secondary dataset.
+* The dashboard has a **filter** of income group.
+* The dashboard includes a webpage to show data from world bank webpage driven by a URL **action** from geography graph. The country names in the map will act as the trigger  https://data.worldbank.org/country/<country>?view=chart
+* The dashboard has a KPI Table to show the comparison between the selected period and the prior period to the selected one.
+* The dashboard has 2 **parameters** for Year Selection and Category Selection.
 
 Category Parameter to have Life Insurance Share, Market Share, Penetration, Ratio of Reinsurance Accepted & Retention Ratio
 
@@ -38,6 +35,5 @@ The line to show with a arrow/triangle at the last mark
 
 Dashboard filter for income group to be applied for all charts with the filter action enabled in the map as well
 
-Formatting to be done appropriately
 
  
